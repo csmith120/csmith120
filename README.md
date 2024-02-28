@@ -1,10 +1,11 @@
-### Hi there 👋, my name is Christian smith
-#### im christian a dude lerning the ways of web design. im a hard working individual with a motivation and drive to learn and create.
-I've worked on a theater project and got my bases down when is come to CSS and html, but still getting the ropes of JavaScript. I'm making a simple door game so nothing impressive. I believe with teamwork anything is possible.
+![Blue Pink Gradient Fashion Banner](https://github.com/csmith120/csmith120/assets/143733392/26649fad-0296-4fdd-a694-0ed133bcfaae)
+### Hi there 👋, my name is Christian Smith
+#### Im Christian a dude lerning the ways of web design. Im a hard working individual with a motivation and drive to learn and create.
+I've worked on a theater project and got my bases down when is come to CSS and html, but still getting the ropes of JavaScript. I believe with teamwork anything is possible.
 
 Skills: JS / HTML / CSS
 
-![Blue Pink Gradient Fashion Banner](https://github.com/csmith120/csmith120/assets/143733392/26649fad-0296-4fdd-a694-0ed133bcfaae)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csmith120)  
 
