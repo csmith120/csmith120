@@ -4,12 +4,13 @@ I've worked on a theater project and got my bases down when is come to CSS and h
 
 Skills: JS / HTML / CSS
 
-
+![Blue Pink Gradient Fashion Banner](https://github.com/csmith120/csmith120/assets/143733392/26649fad-0296-4fdd-a694-0ed133bcfaae)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csmith120)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csmith120)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=csmith120&show_icons=true)  
+
 
 
