@@ -1,7 +1,7 @@
 ![Blue Pink Gradient Fashion Banner](https://github.com/csmith120/csmith120/assets/143733392/26649fad-0296-4fdd-a694-0ed133bcfaae)
 ### Hi there 👋, my name is Christian Smith
-#### Im Christian a dude lerning the ways of web design. Im a hard working individual with a motivation and drive to learn and create.
-I've worked on a theater project and got my bases down when is come to CSS and html, but still getting the ropes of JavaScript. I believe with teamwork anything is possible.
+#### I'm Christian and I'm learning the ways of web development. I'm a hard working individual with a motivation and drive to learn and create.
+I've got my bases down when it comes to CSS and html, but I'm still getting the ropes of JavaScript. I believe with teamwork anything is possible.
 
 Skills: JS / HTML / CSS
 
