@@ -3,7 +3,7 @@
 #### I'm Christian and I'm learning the ways of web development. I'm a hard working individual with a motivation and drive to learn and create.
 I've got my bases down when it comes to CSS and html and javascript/typescript, but I'm currently getting the ropes of Angular. I believe with teamwork anything is possible.
 
-Skills: JS / HTML / CSS / TS / Angular
+Skills: JS / HTML / CSS / TS / Angular / nodeJS / mongoDB
 
 
 
